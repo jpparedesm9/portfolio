@@ -382,26 +382,26 @@
 								<ul class="arlo_tm_portfolio_list gallery_zoom">
 
 									<li class="development">
-										<div class="entry arlo_tm_portfolio_animation_wrap" data-title="Paper Mockup" data-category="Development">
-											<a href="portfolio-single-3.html">
+										<div class="entry arlo_tm_portfolio_animation_wrap" data-title="Tourism Page with smart Payment Panel" data-category="Development">
+											<a href="http://www.viajarorlando.com" target="_blank">
 												<img src="img/portfolio/600x600.jpg" alt="" />
-												<div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/3.jpg"></div>
+												<div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/1.jpg"></div>
 											</a>
 										</div>
 									</li>
 
 																		<li class="development">
-										<div class="entry arlo_tm_portfolio_animation_wrap" data-title="Paper Mockup" data-category="Development">
-											<a href="portfolio-single-3.html">
+										<div class="entry arlo_tm_portfolio_animation_wrap" data-title="KiwiStocks" data-category="Development">
+											<a href="http://www.kiwistocks.com" target="_blank">
 												<img src="img/portfolio/600x600.jpg" alt="" />
-												<div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/3.jpg"></div>
+												<div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/2.jpg"></div>
 											</a>
 										</div>
 									</li>
 
 																		<li class="development">
-										<div class="entry arlo_tm_portfolio_animation_wrap" data-title="Paper Mockup" data-category="Development">
-											<a href="portfolio-single-3.html">
+										<div class="entry arlo_tm_portfolio_animation_wrap" data-title="SGDox" data-category="Development">
+											<a href="http://www.sgdox.com" target="_blank">
 												<img src="img/portfolio/600x600.jpg" alt="" />
 												<div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/3.jpg"></div>
 											</a>
