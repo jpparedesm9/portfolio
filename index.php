@@ -66,7 +66,7 @@
 					<li><a href="#about">About</a></li>
 					<li><a href="#services">Services</a></li>
 					<li><a href="#portfolio">Portfolio</a></li>
-					<li><a href="#news">News</a></li>
+					<!--<li><a href="#news">News</a></li>-->
 					<li><a href="#contact">Contact</a></li>
 				</ul>
 			</div>
@@ -89,7 +89,7 @@
 						<li><a href="#about">About</a></li>
 						<li><a href="#services">Services</a></li>
 						<li><a href="#portfolio">Portfolio</a></li>
-						<li><a href="#news">News</a></li>
+						<!--<li><a href="#news">News</a></li>-->
 						<li><a href="#contact">Contact</a></li>
 					</ul>
 				</div>
@@ -168,7 +168,7 @@
 											<h4>I'm Juan Pablo Paredes and <span class="arlo_tm_animation_text_word"></span></h4>
 										</div>
 										<div class="definition">
-											<p>Hi! My name is <strong>Juan Pablo</strong>. I am a Web Developer, and I'm very passionate and dedicated to my work. With 20 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration to concept and execution, but I find the most satisfaction in seeing the finished product do everything for you that it was created to do.</p>
+											<p>Hi! My name is <strong>Juan Pablo</strong>. I am a Web Developer, and I'm very passionate and dedicated to my work. With 15 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration to concept and execution, but I find the most satisfaction in seeing the finished product do everything for you that it was created to do.</p>
 										</div>
 										<div class="about_short_contact_wrap">
 											<ul>
@@ -207,7 +207,7 @@
 										<div class="buttons_wrap">
 											<ul>
 												<li>
-													<a href="index.html"><span>Download CV</span></a>
+													<a href="JuanPabloParedesCv.pdf" target="_blank"><span>Download CV</span></a>
 												</li>
 												<li class="anchor">
 													<a href="#contact"><span>Send Message</span></a>
@@ -231,7 +231,7 @@
 									<div class="arlo_tm_mini_title_holder">
 										<h4>Some About my Abilities</h4>
 									</div>
-									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry. Lorem Ipsum has been the industry's standard dummy text since. Lorem Ipsum is simply.</p>
+									<p>I passionate about Software and Technology in general with capacity for teamwork working with motivationto achieve set goals.Analysis capacity and problem solving to achieve and maintain high levels of quality.</p>
 								</div>
 								<div class="rightbox">
 									<div class="progress_bar_wrap_total">
@@ -380,22 +380,7 @@
 									<li><a href="#" data-filter=".development">Development</a></li>
 								</ul>
 								<ul class="arlo_tm_portfolio_list gallery_zoom">
-									<li class="design">
-										<div class="entry arlo_tm_portfolio_animation_wrap" data-title="Aoc Productions" data-category="Design">
-											<a href="portfolio-single.html">
-												<img src="img/portfolio/600x600.jpg" alt="" />
-												<div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/1.jpg"></div>
-											</a>
-										</div>
-									</li>
-									<li class="photography">
-										<div class="entry arlo_tm_portfolio_animation_wrap" data-title="Ind Hed" data-category="Photography">
-											<a href="portfolio-single-2.html">
-												<img src="img/portfolio/600x600.jpg" alt="" />
-												<div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/2.jpg"></div>
-											</a>
-										</div>
-									</li>
+
 									<li class="development">
 										<div class="entry arlo_tm_portfolio_animation_wrap" data-title="Paper Mockup" data-category="Development">
 											<a href="portfolio-single-3.html">
@@ -404,30 +389,25 @@
 											</a>
 										</div>
 									</li>
-									<li class="photography">
-										<div class="entry arlo_tm_portfolio_animation_wrap" data-title="The Nordic" data-category="Photography">
-											<a href="portfolio-single-4.html">
+
+																		<li class="development">
+										<div class="entry arlo_tm_portfolio_animation_wrap" data-title="Paper Mockup" data-category="Development">
+											<a href="portfolio-single-3.html">
 												<img src="img/portfolio/600x600.jpg" alt="" />
-												<div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/4.jpg"></div>
+												<div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/3.jpg"></div>
 											</a>
 										</div>
 									</li>
-									<li class="design">
-										<div class="entry arlo_tm_portfolio_animation_wrap" data-title="Creatives Castle" data-category="Design">
-											<a href="portfolio-single-5.html">
+
+																		<li class="development">
+										<div class="entry arlo_tm_portfolio_animation_wrap" data-title="Paper Mockup" data-category="Development">
+											<a href="portfolio-single-3.html">
 												<img src="img/portfolio/600x600.jpg" alt="" />
-												<div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/5.jpg"></div>
+												<div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/3.jpg"></div>
 											</a>
 										</div>
 									</li>
-									<li class="photography">
-										<div class="entry arlo_tm_portfolio_animation_wrap" data-title="White Bag" data-category="Photography">
-											<a href="portfolio-single-6.html">
-												<img src="img/portfolio/600x600.jpg" alt="" />
-												<div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/6.jpg"></div>
-											</a>
-										</div>
-									</li>
+									
 								</ul>
 							</div>
 						</div>
@@ -457,7 +437,7 @@
 															<i class="xcon-quote-left"></i>
 														</div>
 														<div class="definitions_wrap">
-															<p>“Arlo team are easy to work with and helped me make amazing websites in a short amount of time. Thanks guys for works.”</p>
+															<p>“Athena team are easy to work with and helped me make amazing websites in a short amount of time. Thanks guys for works.”</p>
 														</div>
 														<div class="name_holder">
 															<p>Antonio Baraley, CEO Founder</p>
@@ -507,26 +487,20 @@
 							<ul class="arlo_tm_counter_list arlo_tm_miniboxes">
 								<li>
 									<div class="inner arlo_tm_minibox">
-										<h3><span><span class="arlo_tm_counter" data-from="0" data-to="2222" data-speed="3000">0</span></span></h3>
+										<h3><span><span class="arlo_tm_counter" data-from="0" data-to="5" data-speed="3000">0</span></span></h3>
 										<span>Projects Completed</span>
 									</div>
 								</li>
 								<li>
 									<div class="inner arlo_tm_minibox">
-										<h3><span><span class="arlo_tm_counter" data-from="0" data-to="333" data-speed="3000">0</span>K</span></h3>
+										<h3><span><span class="arlo_tm_counter" data-from="0" data-to="100000" data-speed="3000">0</span>K</span></h3>
 										<span>Lines of Code</span>
 									</div>
 								</li>
 								<li>
 									<div class="inner arlo_tm_minibox">
-										<h3><span><span class="arlo_tm_counter" data-from="0" data-to="8888" data-speed="3000">0</span></span></h3>
+										<h3><span><span class="arlo_tm_counter" data-from="0" data-to="5" data-speed="3000">0</span></span></h3>
 										<span>Happy Clients</span>
-									</div>
-								</li>
-								<li>
-									<div class="inner arlo_tm_minibox">
-										<h3><span><span class="arlo_tm_counter" data-from="0" data-to="777" data-speed="3000">0</span>+</span></h3>
-										<span>My Awwwards</span>
 									</div>
 								</li>
 							</ul>
@@ -536,6 +510,7 @@
 				<!-- /COUNTERBOX -->
 
 				<!-- NEWS -->
+				<!--
 				<div class="arlo_tm_section" id="news">
 					<div class="arlo_tm_news_wrap">
 						<div class="container">
@@ -655,6 +630,7 @@
 						</div>
 					</div>
 				</div>
+				==>
 				<!-- /NEWS -->
 
 				<!-- CONTACT & FOOTER -->
@@ -674,10 +650,10 @@
 									</div>
 									<div class="short_info_wrap">
 										<ul>
-											<li><p><label>Address:</label><span>123 Qwerty Avenue NYC, USA</span></p></li>
-											<li><p><label>Email:</label><span><a href="mailto:example@gmail.com">example@gmail.com</a></span></p></li>
-											<li><p><label>Phone:</label><span>+77 022 177 05 05</span></p></li>
-											<li><p><label>Website:</label><span><a href="mailto:example@gmail.com">www.yourdomain.com</a></span></p></li>
+											<li><p><label>Address:</label><span>Av. Am&eacute;rica y Ma&ntilde;osca Quito, Ecuador</span></p></li>
+											<li><p><label>Email:</label><span><a href="mailto:jpparedesm@gmail.com">jpparedesm@gmail.com</a></span></p></li>
+											<li><p><label>Phone:</label><span>+593 992007443</span></p></li>
+											<li><p><label>Website:</label><span><a href="mailto:example@gmail.com">www.juanpabloparedes.me</a></span></p></li>
 										</ul>
 									</div>
 								</div>
